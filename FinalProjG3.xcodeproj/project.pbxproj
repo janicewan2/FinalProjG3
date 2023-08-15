@@ -11,6 +11,17 @@
 		F1A30FD32A8BF97B00F0480D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A30FD22A8BF97B00F0480D /* ContentView.swift */; };
 		F1A30FD52A8BF97C00F0480D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1A30FD42A8BF97C00F0480D /* Assets.xcassets */; };
 		F1A30FD82A8BF97C00F0480D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1A30FD72A8BF97C00F0480D /* Preview Assets.xcassets */; };
+		F1D1E9C52A8D18C2001A5CD2 /* CarbonTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9C42A8D18C2001A5CD2 /* CarbonTracker.swift */; };
+		F1D1E9C92A8D2E7E001A5CD2 /* TrendsOverTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9C82A8D2E7E001A5CD2 /* TrendsOverTime.swift */; };
+		F1D1E9CB2A8D388E001A5CD2 /* Suggestions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9CA2A8D388E001A5CD2 /* Suggestions.swift */; };
+		F1D1E9CD2A8E67F9001A5CD2 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9CC2A8E67F9001A5CD2 /* Settings.swift */; };
+		F1D1E9CF2A8E6E7E001A5CD2 /* Q1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9CE2A8E6E7E001A5CD2 /* Q1.swift */; };
+		F1D1E9D12A8E828A001A5CD2 /* Q2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9D02A8E828A001A5CD2 /* Q2.swift */; };
+		F1D1E9D32A8E8E2E001A5CD2 /* Q3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9D22A8E8E2E001A5CD2 /* Q3.swift */; };
+		F1D1E9D52A8EA23C001A5CD2 /* Q4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9D42A8EA23C001A5CD2 /* Q4.swift */; };
+		F1D1E9D72A8EA53A001A5CD2 /* Q5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9D62A8EA53A001A5CD2 /* Q5.swift */; };
+		F1D1E9D92A8EA74E001A5CD2 /* Q6.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9D82A8EA74E001A5CD2 /* Q6.swift */; };
+		F1D1E9DB2A8EAB02001A5CD2 /* Q7.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D1E9DA2A8EAB02001A5CD2 /* Q7.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		F1A30FD22A8BF97B00F0480D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F1A30FD42A8BF97C00F0480D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1A30FD72A8BF97C00F0480D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F1D1E9C42A8D18C2001A5CD2 /* CarbonTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbonTracker.swift; sourceTree = "<group>"; };
+		F1D1E9C82A8D2E7E001A5CD2 /* TrendsOverTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendsOverTime.swift; sourceTree = "<group>"; };
+		F1D1E9CA2A8D388E001A5CD2 /* Suggestions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Suggestions.swift; sourceTree = "<group>"; };
+		F1D1E9CC2A8E67F9001A5CD2 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		F1D1E9CE2A8E6E7E001A5CD2 /* Q1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1.swift; sourceTree = "<group>"; };
+		F1D1E9D02A8E828A001A5CD2 /* Q2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2.swift; sourceTree = "<group>"; };
+		F1D1E9D22A8E8E2E001A5CD2 /* Q3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q3.swift; sourceTree = "<group>"; };
+		F1D1E9D42A8EA23C001A5CD2 /* Q4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q4.swift; sourceTree = "<group>"; };
+		F1D1E9D62A8EA53A001A5CD2 /* Q5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q5.swift; sourceTree = "<group>"; };
+		F1D1E9D82A8EA74E001A5CD2 /* Q6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q6.swift; sourceTree = "<group>"; };
+		F1D1E9DA2A8EAB02001A5CD2 /* Q7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q7.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +74,18 @@
 			isa = PBXGroup;
 			children = (
 				F1A30FD02A8BF97B00F0480D /* FinalProjG3App.swift */,
+				F1D1E9CC2A8E67F9001A5CD2 /* Settings.swift */,
 				F1A30FD22A8BF97B00F0480D /* ContentView.swift */,
+				F1D1E9C42A8D18C2001A5CD2 /* CarbonTracker.swift */,
+				F1D1E9CE2A8E6E7E001A5CD2 /* Q1.swift */,
+				F1D1E9D02A8E828A001A5CD2 /* Q2.swift */,
+				F1D1E9D22A8E8E2E001A5CD2 /* Q3.swift */,
+				F1D1E9D42A8EA23C001A5CD2 /* Q4.swift */,
+				F1D1E9D62A8EA53A001A5CD2 /* Q5.swift */,
+				F1D1E9D82A8EA74E001A5CD2 /* Q6.swift */,
+				F1D1E9DA2A8EAB02001A5CD2 /* Q7.swift */,
+				F1D1E9C82A8D2E7E001A5CD2 /* TrendsOverTime.swift */,
+				F1D1E9CA2A8D388E001A5CD2 /* Suggestions.swift */,
 				F1A30FD42A8BF97C00F0480D /* Assets.xcassets */,
 				F1A30FD62A8BF97C00F0480D /* Preview Content */,
 			);
@@ -137,8 +170,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1D1E9C52A8D18C2001A5CD2 /* CarbonTracker.swift in Sources */,
+				F1D1E9CB2A8D388E001A5CD2 /* Suggestions.swift in Sources */,
+				F1D1E9D92A8EA74E001A5CD2 /* Q6.swift in Sources */,
+				F1D1E9D72A8EA53A001A5CD2 /* Q5.swift in Sources */,
+				F1D1E9D32A8E8E2E001A5CD2 /* Q3.swift in Sources */,
+				F1D1E9CF2A8E6E7E001A5CD2 /* Q1.swift in Sources */,
+				F1D1E9CD2A8E67F9001A5CD2 /* Settings.swift in Sources */,
 				F1A30FD32A8BF97B00F0480D /* ContentView.swift in Sources */,
+				F1D1E9C92A8D2E7E001A5CD2 /* TrendsOverTime.swift in Sources */,
+				F1D1E9D12A8E828A001A5CD2 /* Q2.swift in Sources */,
+				F1D1E9D52A8EA23C001A5CD2 /* Q4.swift in Sources */,
 				F1A30FD12A8BF97B00F0480D /* FinalProjG3App.swift in Sources */,
+				F1D1E9DB2A8EAB02001A5CD2 /* Q7.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
